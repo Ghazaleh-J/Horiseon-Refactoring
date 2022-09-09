@@ -16,5 +16,8 @@ These are the things I changed to refactor the code:
 * Changed the targeted classes on CSS to the elements
 * Orginized CSS elements from general to specific
 
+## Link
+[Deployed Page](https://ghazaleh-j.github.io/Horiseon-Refactoring/)
+
 ## Application Preview
 ![alt text](./assets/01-html-css-git-homework-demo.png)
