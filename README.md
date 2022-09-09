@@ -1,8 +1,20 @@
-# Homework-1
+# HTML-Git-CSS-Homework
+
+## Description
+* Refactor the code to use HTML semantic elements
+* Refactor the CSS to remove redundant code
+* Verify links work
+* Refactored code output should look exactly the same as the provided code output
+
+## Tasks Tracking
 These are the things I changed to refactor the code:
 
-1. Changed the div elements to semantic elements such as header, nav, main, section, and aside
-2. Added figure element for the image
-3. Deleted some unnecessary classes
-4. Changed the targeted classes on CSS to the elements
-5. Orginized CSS elements from general to specific
+* Updated the Title to the Company Name
+* Changed the div elements to semantic elements such as header, nav, main, section, and aside
+* Added figure element for the image
+* Deleted some unnecessary classes
+* Changed the targeted classes on CSS to the elements
+* Orginized CSS elements from general to specific
+
+## Application Preview
+![alt text](./assets/01-html-css-git-homework-demo.png)
