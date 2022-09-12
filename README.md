@@ -1,4 +1,4 @@
-# HTML-Git-CSS-Homework
+# HTML-Git-CSS
 
 ## Description
 * Refactor the code to use HTML semantic elements
